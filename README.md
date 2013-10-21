@@ -1,7 +1,7 @@
-building-G2B-document-
+building-B2G-document-
 ======================
 
-编译G2B心得体会
+编译B2G心得体会
 
 
 编译的具体步骤：
